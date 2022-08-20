@@ -5,12 +5,11 @@ I will be analyzing the relationship between the type of city (rural, urban & su
 
 
 ## Analysis
-To start the analysis, I combined city and ride data. Using Matplotlib in Jupyter Notebook, I created charts to visualize the findings. All three charts below show a high volume of riders and drivers in
+To start the analysis, I combined large sets of city and ride data. Then, using Matplotlib in Jupyter Notebook, I created charts to visualize the findings. All three charts below show a high volume of rides and drivers in urban cities, followed by suburban and then rural. 
  
 <p align="center" width="100%">
-    <img width="66%" src="https://github.com/molivajimenez22/PyBer_Analysis/blob/main/Resources/Analysis.png">
+    <img width="66%" src="https://github.com/molivajimenez22/PyBer_Analysis/blob/main/Resources/AnalysisFinal.png">
  
-
 ## Results
 
 
