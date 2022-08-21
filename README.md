@@ -35,4 +35,4 @@ As the charts above indicated, urban city type had the highest activity. The sum
 ## Summary
 
    1. PyBer is performing well in the Urban city type. There are plenty of drivers and given the lower fares, I assume the rides are short distances.
-   2. My recommendation is that PyBer invest in improving affortability in the rural city type. Given the fares, I imagine the rides are longer so how can the compnay improve affortability with longer rides?
+   2. My recommendation is that PyBer invest in improving affortability in the rural city type. Given the fares, I imagine the rides are longer and the company can benefit from finding was to make the longer rides more affortable and that can increase usage.
