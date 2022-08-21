@@ -8,7 +8,7 @@ I will be analyzing the relationship between city type and number of riders util
 **Dataset (2)**: City and Rides
 
 ## Analysis
-To start the analysis, I merged two sets of data. Using Matplotlib in Jupyter Notebook, I created charts to visualize the findings. All three charts below show a high volume of rides and drivers in urban cities, followed by suburban and then rural. 
+To start the analysis, I merged two large sets of data. Using Matplotlib in Jupyter Notebook, I created charts to visualize the findings. All three charts below show a high volume of rides and drivers in urban cities, followed by suburban and then rural. 
  
 <p align="center" width="100%">
     <img width="66%" src="https://github.com/molivajimenez22/PyBer_Analysis/blob/main/Resources/AnalysisFinal.png">
