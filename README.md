@@ -16,7 +16,7 @@ To start the analysis, I merged two large sets of data. Using Matplotlib in Jupy
 ## Results
 
 ### Summary Dataframe
-As the charts above indicated, urban city type had the highest activity. The summary below was created using the groupsby() function and the purpuse is to outline details for fare per ride, fare per driver and calculates the average fare per ride and driver. Creating this summary allows me to more clearly see that activity in each city. 
+As the charts above indicated, urban city type had the highest activity. The summary below was created using the groupsby() function and the purpuse is to outline details for fare per ride, fare per driver and calculates the average fare per ride and driver. 
 
 <p align="center" width="100%">
     <img width="66%" src="https://github.com/molivajimenez22/PyBer_Analysis/blob/main/Resources/summary%20of%20dataframe.png">
